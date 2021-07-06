@@ -15,7 +15,7 @@
 
 ##### Register
 
-## open model/user.php file and add service provider.
+## open model \ user.php file and add service provider.
 
 ```javascript
 
